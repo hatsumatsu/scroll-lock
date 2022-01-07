@@ -8,6 +8,8 @@
 
 Reliably lock body scroll.
 
+Useful for modal overlays etc. Maintains scroll position and allows overlay elements to be scrollable. Works just fine on mobile.
+
 ### Installation
 
 `npm install @superstructure.net/scroll-lock`
