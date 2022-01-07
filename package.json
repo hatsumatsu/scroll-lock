@@ -1,6 +1,6 @@
 {
     "name": "@superstructure.net/scroll-lock",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "main": "scroll-lock.js",
     "description": "Reliably lock body scroll.",
     "license": "MIT",

@@ -1,7 +1,9 @@
 ```
-# ########## #
-# ScrollLock #
-# ########## #
+# 🔒 # 🔒 # 🔒 # 🔒 # 🔒 #
+🔒                   🔒
+#     ScrollLock    #
+🔒                   🔒
+# 🔒 # 🔒 # 🔒 # 🔒 # 🔒 #
 ```
 
 Reliably lock body scroll.
@@ -26,3 +28,22 @@ scrollLock.disable();
 
 scrollLock.destroy();
 ```
+
+### Browser support
+
+Tested in
+
+-   MacOS
+    -   Chrome 96
+    -   Safari 15
+    -   Firefox 95
+-   Android
+    -   Chrome 96
+-   iOS
+    -   15.1
+    -   14.4
+    -   13.3
+    -   12.4
+    -   11.4
+
+Probably works just fine on the same browser versions on Windows, Linux...
