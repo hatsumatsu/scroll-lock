@@ -31,14 +31,21 @@ scrollLock.disable();
 scrollLock.destroy();
 ```
 
+### Demo
+
+Demo on [Codesandbox](https://05thv.csb.app/).
+
 ### Browser support
 
 Tested in
 
 -   MacOS
+
     -   Chrome 96
     -   Safari 15
     -   Firefox 95
+    -   Probably works just fine in the same browsers on Windows, Linux...
+
 -   Android
     -   Chrome 96
 -   iOS
@@ -47,5 +54,3 @@ Tested in
     -   13.3
     -   12.4
     -   11.4
-
-Probably works just fine on the same browser versions on Windows, Linux...
